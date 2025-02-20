@@ -1,5 +1,5 @@
 
-## Sobre mim 
+# Sobre mim 
 Olá! Eu sou o Rodrigo, tenho 18 anos e sou Programador Fullstack. Atualmente trabalho a Freelancer para ganho de conhecimentos e tiro certificações para apoiar a minha aprendizagem. Atualmente, especializo-me em JavaScript, Node.js e Express, explorando também TypeScript, React e MongoDB. Além disso, adoro desafios relacionados com web scraping e automação! O meu objetivo é evoluir constantemente como programador e construir projetos que façam a diferença. Se quiseres trocar ideias ou trabalhar comigo, estou disponível para conversar!
 
 ## Conhecimentos em
@@ -8,16 +8,19 @@ Olá! Eu sou o Rodrigo, tenho 18 anos e sou Programador Fullstack. Atualmente tr
 ## A Estudar:
 ![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Experiências 
 ---
+
+# Experiências 
+
 [![Quina Ribeiro](https://img.shields.io/badge/Quina_Ribeiro-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/quinaribeiro/)
 ##### Estagiário Fullstack Developer
 ###### abr de 2024 - jun de 2024 · 3 meses
----
+#
 [![Smartlinks](https://img.shields.io/badge/Smartlinks-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/smartlinks-agencia-marketing-digital/) 
 ##### Estagiário Web Developer
 ###### jan de 2023 - fev de 2023 · 2 meses
----
+#
+
 
 
   
