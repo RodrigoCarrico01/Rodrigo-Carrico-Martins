@@ -10,6 +10,14 @@ Olá! Eu sou o Rodrigo, tenho 18 anos e sou Programador Fullstack. Atualmente tr
 
 ---
 
+## Estatísticas do GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoCarrico01&show_icons=true&theme=dark&hide_border=true" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoCarrico01&theme=dark&hide_border=true" width="400px"/>
+</p>
+
+---
+
 # Experiências 
 
 [![Quina Ribeiro](https://img.shields.io/badge/Quina_Ribeiro-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/quinaribeiro/)
